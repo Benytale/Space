@@ -1,0 +1,6 @@
+Flask
+python-deriv-api
+pandas
+pandas-ta
+numpy
+scipy
